@@ -1,0 +1,7 @@
+{
+  "name": "Markdownish",
+  "dependencies": {
+    "marked": "~0.3.3",
+    "vue": "~0.11.10"
+  }
+}
